@@ -1,0 +1,21 @@
+.country{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 8px 8px 55px lightgrey;
+    margin: 50px 0 0 110px;
+    padding: 50px;
+    display: inline-block;
+    width: 200px;
+    height: auto;
+    text-align: center;    
+}
+.country button{
+    height: 30px;
+    width: 130px;
+    text-decoration: none;
+    border: none;
+    background-color:rgba(255, 251, 251, 0.301);
+    border-radius:10px;
+    box-shadow: 5px 5px 15px grey;
+    cursor: pointer;
+}
